@@ -1,4 +1,3 @@
-pairup-users
-============
+PairUp - A Pair Programming Service
+===================================
 
-Hacktive PairUp Users
